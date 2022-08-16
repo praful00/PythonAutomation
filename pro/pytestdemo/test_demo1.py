@@ -9,3 +9,6 @@ class Testpro:
 
     def test_thirddemo(self):
         print("Hello kunal")
+
+    def test_fourthdemo(self):
+        print("Hello pranay")
