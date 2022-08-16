@@ -12,3 +12,6 @@ class Testpro:
 
     def test_fourthdemo(self):
         print("Hello kedar")
+
+    def test_fifthdemo(self):
+        print("Hello raj")
