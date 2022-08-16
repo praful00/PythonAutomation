@@ -6,3 +6,6 @@ class Testpro:
 
     def test_seconddemo(self):
         print("Hello Shubham")
+
+    def test_thirddemo(self):
+        print("Hello pankaj")
