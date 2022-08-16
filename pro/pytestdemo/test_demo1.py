@@ -8,4 +8,4 @@ class Testpro:
         print("Hello Shubham")
 
     def test_thirddemo(self):
-        print("Hello pankaj")
+        print("Hello kunal")
